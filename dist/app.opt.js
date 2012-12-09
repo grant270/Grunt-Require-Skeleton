@@ -1,0 +1,1 @@
+define("app",[],function(){var e=function(){};return e}),require(["app"],function(e){}),define("main",function(){}),require.config({deps:["main"],paths:{},shim:{}}),define("config",function(){});
